@@ -1,7 +1,7 @@
 # First-full-stack-app
 Lab #12 Build a full stack app
 
-Simple weather app, Using REACT, SQL Database, and Node.Js
+Simple weather app, Using REACT, SQL Database, Javascript, HTML, CSS and Node.Js
 
 CISC 3140 Large Scale Apps
 
